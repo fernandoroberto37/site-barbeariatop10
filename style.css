@@ -1,5 +1,4 @@
 * {
-  margin: 0;
   padding: 0;
   box-sizing: border-box;
   outline: 0;
@@ -97,7 +96,7 @@ i {
   content: "";
   display: block;
   position: absolute;
-  background-image: linear-gradient(to bottom, rgba(6, 18, 30, 0.5), #06121e), url("../assets/assets/barbeariatop10foto.jpg");
+  background-image: linear-gradient(to bottom, rgba(6, 18, 30, 0.5), #06121e), url("../assets/assets/barbearia.jpg");
   left: 0;
   top: 0;
   width: 100%;
@@ -340,4 +339,4 @@ img {
 a {
   cursor: pointer;
   text-decoration: none;
-}/*# sourceMappingURL=stle.css.map */
+}/*# sourceMappingURL=style.css.map */
